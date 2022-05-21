@@ -237,6 +237,7 @@ defaults:
       share: true
       comment: true
   # _talks
+  
   - scope:
       path: ""
       type: talks

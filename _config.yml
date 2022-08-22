@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Paul W. Dai"
   avatar           : "profile.png"
-  bio              : "MA in Economics"
-  location         : "Chicago, IL"
+  bio              : "Predoc at MIT Sloan"
+  location         : "Cambridge, MA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "paulwdai@uchicago.edu"
+  email            : "paulwdai@mit.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

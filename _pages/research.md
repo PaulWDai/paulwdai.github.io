@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## Work in Progress
 
-### Gender Identity, Peer Effects, and Research Focus: Evidence from PhD Dissertations (with Hongyuan Xia) (Draft Upon Request) Aug 2022
+### Gender Identity, Peer Effects, and Research Focus: Evidence from PhD Dissertations (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Under Major Extension) Aug 2022
 
 Abstract: Using a universe record of PhD dissertations in the US, we find a substantial amount of missing female PhD and female-focus research from 1985 to 2015. Our decomposition exercise quantifies the driving forces of this phenomenon. Besides, we find a close connection between PhD gender identity and their research focus: females are more likely to do female-focus research (FFR), while males are less likely. We further causally identify the peer effects of producing female-focus research: a higher female ratio in the PhD cohort encourages females but discourages male PhDs doing FFR, which is in favor of a competition effect in addition to knowledge diffusion in FFR production. These effects last for at least 5 years after graduation. Further investigation indicates the homophily and coauthor network explain the differential effects on female and male PhDs.
 

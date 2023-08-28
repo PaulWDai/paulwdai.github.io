@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## Selected Work in Progress
 
-Financial Kuznets Fact (with [Karsten M&uuml;ller](https://www.karstenmueller.com/) and [Emil Verner](https://www.emilverner.com/))
+Financial Kuznets Facts (with [Karsten M&uuml;ller](https://www.karstenmueller.com/) and [Emil Verner](https://www.emilverner.com/))
 
 Gender Identity, Peer Effects, and Research Focus: Evidence from PhD Dissertations (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Under Major Extension) Aug 2022
 

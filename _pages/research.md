@@ -2,7 +2,7 @@
 title: "Research"
 permalink: /research/
 ---
-## Selected Work in Progress
+## Work in Progress
 
 Financial Kuznets Facts (with [Karsten M&uuml;ller](https://www.karstenmueller.com/) and [Emil Verner](https://www.emilverner.com/))
 

@@ -13,4 +13,4 @@ permalink: /research/
 
 ## Inactive Working Papers
 
-[Life-Cycle Remittance for Rural-Urban Migrants](https://paulwdai.github.io/files/remittance.pdf) Nov 2020
+[Life-Cycle Remittance for Rural-Urban Migrants](https://paulwdai.github.io/files/Remittance.pdf) Nov 2020

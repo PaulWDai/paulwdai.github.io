@@ -6,11 +6,12 @@ permalink: /research/
 
 [Financial Kuznets Facts](https://paulwdai.github.io/files/Financial_Kuznets.pdf) (with [Karsten M&uuml;ller](https://www.karstenmueller.com/) and [Emil Verner](https://www.emilverner.com/)) (Draft Available Soon)
 
-[Gender Identity, Peer Effects, and Research Focus: Evidence from PhD Dissertations](https://paulwdai.github.io/files/FFR.pdf) (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Preliminary Draft, New Draft Available Soon)
+## Pre-PhD research
+
+[Gender Identity, Peer Effects, and Research Focus: Evidence from PhD Dissertations](https://paulwdai.github.io/files/FFR.pdf) (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Preliminary Draft)
 
 [Childlessness and Development](https://paulwdai.github.io/files/Childlessness_Development.pdf) (Preliminary Draft) Feb 2023
 
-
-## Inactive Working Papers
+## Resting Paper
 
 [Life-Cycle Remittance for Rural-Urban Migrants](https://paulwdai.github.io/files/Remittance.pdf) Nov 2020

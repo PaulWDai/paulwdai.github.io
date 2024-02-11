@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Pre-PhD research
 
-[Gender Identity, Peer Effects, and Research Focus: Evidence from PhD Dissertations](https://paulwdai.github.io/files/FFR.pdf) (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Preliminary Draft)
+[Peers Matter: Cohort Gender Composition and the Production of Female-Focused Research](https://paulwdai.github.io/files/FFR.pdf) (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Preliminary Draft, Scheduled Presentation as NBER Investment in Early Career Scientists, 2024)
 
 [Childlessness and Development](https://paulwdai.github.io/files/Childlessness_Development.pdf) (Preliminary Draft) Feb 2023
 

@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Pre-PhD research
 
-[Peers Matter: Cohort Gender Composition and the Production of Female-Focused Research](https://paulwdai.github.io/files/FFR.pdf) (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Preliminary Draft, Scheduled Presentation as NBER Investment in Early Career Scientists, 2024)
+[Peers Matter: Cohort Gender Composition and the Production of Female-Focused Research](https://paulwdai.github.io/files/FFR.pdf) (with [Hongyuan Xia](https://economics.cornell.edu/hongyuan-xia)) (Preliminary Draft, Scheduled Presentation at NBER Investment in Early Career Scientists, 2024)
 
 [Childlessness and Development](https://paulwdai.github.io/files/Childlessness_Development.pdf) (Preliminary Draft) Feb 2023
 

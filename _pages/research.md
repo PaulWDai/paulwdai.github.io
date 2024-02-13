@@ -12,6 +12,4 @@ permalink: /research/
 
 [Childlessness and Development](https://paulwdai.github.io/files/Childlessness_Development.pdf) (Preliminary Draft) Feb 2023
 
-## Resting Paper
-
-[Life-Cycle Remittance for Rural-Urban Migrants](https://paulwdai.github.io/files/Remittance.pdf) Nov 2020
+[Life-Cycle Remittance for Rural-Urban Migrants](https://paulwdai.github.io/files/Remittance.pdf) (Resting Paper) Nov 2020

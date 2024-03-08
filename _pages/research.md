@@ -10,7 +10,7 @@ permalink: /research/
 ## Pre-PhD Research
 
 ### Peer Matters: Peers Matter: Cohort Gender Composition and the Production of Female-Focused Research (with [Hongyunan Xia](https://economics.cornell.edu/hongyuan-xia))
-  - Scheduled Presentation: NBER Investment in Early Career Scientists (Apr 2024)
+  - Presentation: [NBER Investment in Early Career Scientists (Spring 2024)](https://www.nber.org/conferences/investments-early-career-scientists-spring-2024)
   - Abstract: This paper studies the impact of increasing female representation in doctoral studies on the research direction of PhD students in the same cohort. We measure research direction employing a machine learning algorithm to classify whether a dissertation aims at addressing the needs of women. Leveraging a novel database containing publication record of PhD in the United States, we document that female students exhibit a higher propensity for conducting female-focused research (FFR). Exploiting quasi-random year-to-year fluctuations in the number of female-to-male PhD students ratio at the PhD program level, we find that a greater female cohort share encourages females but discourages males from conducting FFR. Our findings are in favor of a within-gender spillover effect and an across-gender competition effect in research production. Collectively, our results reveal that, besides increasing female PhD participation, within-cohort peer effect is an important factor to resolve the scarcity-substance paradox of FFR production.
 
 ### Childlessness and Development

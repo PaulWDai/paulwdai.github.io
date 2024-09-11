@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Paul W Dai"
 title_separator          : "-"
 name                     : &name "Paul W Dai"
-description              : &description "Incoming Finance PhD Student at MIT Sloan"
+description              : &description "Finance PhD Student at MIT Sloan"
 url                      : https://PaulWDai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PaulWDai/PaulWDai.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paul W. Dai"
   avatar           : "profile.png"
-  bio              : "Incoming Finance PhD at MIT Sloan"
+  bio              : "Finance PhD Student at MIT Sloan"
   location         : "Cambridge, MA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

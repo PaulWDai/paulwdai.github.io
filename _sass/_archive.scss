@@ -14,18 +14,18 @@
     @include prefix(0.5 of 12);
   }
 
-  a {
-    text-decoration: underline;
-
+a {
+    text-decoration: none; /* Removes underline */
+    
     &:hover {
-      text-decoration: underline;
+        text-decoration: none; /* Ensures underline stays removed on hover */
 
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+        img {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); /* Adds shadow on hover for images */
+        }
     }
-  }
 }
+
 
 .archive__subtitle {
   margin: 1.414em 0 0;

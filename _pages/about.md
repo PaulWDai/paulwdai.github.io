@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a first-year finance PhD student at <a href='https://mitsloan.mit.edu/' style="color:#004080">MIT Sloan School of Management</a>, where I previously worked as a Predoc fellow. I obtained my MA in Economics from the University of Chicago in 2022, and my BA in Economics and Literature from Peking University, China, in 2021. Here is my <a href='https://paulwdai.github.io/files/CV_Paul_Dai.pdf' style="color:blue">CV</a>.
+I am a first-year finance PhD student at <a href='https://mitsloan.mit.edu/' style="color:#004080;text-decoration: none;">MIT Sloan School of Management</a>, where I previously worked as a Predoc fellow. I obtained my MA in Economics from the University of Chicago in 2022, and my BA in Economics and Literature from Peking University, China, in 2021. Here is my <a href='https://paulwdai.github.io/files/CV_Paul_Dai.pdf' style="color:blue">CV</a>.
 
 My research lies at the intersection of finance, macroeconomics, and development. Methodologically, I leverage large-scale granular data, conduct reduced-form analysis with causal identification, and combine it with quantitative models to disentangle potential channels.
 

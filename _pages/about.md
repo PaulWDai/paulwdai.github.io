@@ -14,7 +14,7 @@ I am a first-year finance PhD student at <a href='https://mitsloan.mit.edu/' sty
 
 My research lies at the intersection of finance, macroeconomics, and development. Methodologically, I leverage large-scale granular data, conduct reduced-form analysis with causal identification, and combine it with quantitative models to disentangle potential channels.
 
-## Work in Progress
+## Working Paper
 
 ### Finance, Structural Change, and Growth (with <a href='https://www.karstenmueller.com/' style="color:#002896; text-decoration: none;">Karsten M&uuml;ller</a> and <a href='https://www.emilverner.com/' style="color:#002896; text-decoration: none;">Emil Verner</a>)
   - PDF <a href='https://paulwdai.github.io/files/FinanceStructuralChangeGrowth.pdf' style="color:#002896; text-decoration: none;">Link</a>

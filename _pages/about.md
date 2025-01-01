@@ -16,7 +16,7 @@ My research lies at the intersection of finance, macroeconomics, and development
 
 ## Work in Progress
 
-### Finance, Structural Change, and Growth (with <a href='https://www.karstenmueller.com/' style="color:#002896; text-decoration: none;">Karsten M&uuml;ller</a> and <a href='https://www.emilverner.com/' style="color:#002896; text-decoration: none;">Emil Verner</a>) (Draft Available Soon)
+### Finance, Structural Change, and Growth (with <a href='https://www.karstenmueller.com/' style="color:#002896; text-decoration: none;">Karsten M&uuml;ller</a> and <a href='https://www.emilverner.com/' style="color:#002896; text-decoration: none;">Emil Verner</a>)
   - PDF <a href='https://paulwdai.github.io/files/FinanceStructuralChangeGrowth.pdf' style="color:#002896; text-decoration: none;">Link</a>
   - Data Website: <a href='https://www.globalcreditproject.com/' style="color:#002896; text-decoration: none;">Global Credit Project</a>
   - Presentation: <a href='https://www.aeaweb.org/conference/2025/preliminary/1836?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrAxrawGlCArI' style="color:#002896; text-decoration: none;">AFA 2025 Annual Meeting: Finance, Development, and Growth</a>

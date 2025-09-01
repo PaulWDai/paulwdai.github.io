@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a rising 2nd-year finance PhD student at <a href='https://mitsloan.mit.edu/' style="color:#002896; text-decoration: none;">MIT Sloan School of Management</a>, where I previously worked as a Predoc fellow. I obtained my MA in Economics from the <a href='https://www.uchicago.edu/en' style="color:#002896; text-decoration: none;">University of Chicago</a> in 2022, and my BA in Economics and Literature from <a href='https://english.pku.edu.cn/' style="color:#002896; text-decoration: none;">Peking University</a>, China, in 2021. Here is my <a href='https://paulwdai.github.io/files/CV_Paul_Dai.pdf' style="color:#002896; text-decoration: none;">CV</a>.
+I am a 2nd-year finance PhD student at <a href='https://mitsloan.mit.edu/' style="color:#002896; text-decoration: none;">MIT Sloan School of Management</a>, where I previously worked as a Predoc fellow. I obtained my MA in Economics from the <a href='https://www.uchicago.edu/en' style="color:#002896; text-decoration: none;">University of Chicago</a> in 2022, and my BA in Economics and Literature from <a href='https://english.pku.edu.cn/' style="color:#002896; text-decoration: none;">Peking University</a>, China, in 2021. Here is my <a href='https://paulwdai.github.io/files/CV_Paul_Dai.pdf' style="color:#002896; text-decoration: none;">CV</a>.
 
 My research interests lie in macro-finance, with a particular focus on development and international economics.
 

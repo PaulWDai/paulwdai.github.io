@@ -16,5 +16,5 @@ My research interests lie in macro-finance, with a particular focus on internati
 
 ## Working Paper
 
-### Credit Allocation, Collateral, and Economic Development (with <a href='https://www.karstenmueller.com/' style="color:#002896; text-decoration: none;">Karsten M&uuml;ller</a> and <a href='https://www.emilverner.com/' style="color:#002896; text-decoration: none;">Emil Verner</a>)
+### Unbalanced Financial Deepening (with <a href='https://www.karstenmueller.com/' style="color:#002896; text-decoration: none;">Karsten M&uuml;ller</a> and <a href='https://www.emilverner.com/' style="color:#002896; text-decoration: none;">Emil Verner</a>)
   - <a href='https://paulwdai.github.io/files/DMV.pdf' style="color:#002896; text-decoration: none;">PDF Link</a>; <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5079393' style="color:#002896; text-decoration: none;">SSRN</a>; Data Website: <a href='https://www.globalcreditproject.com/' style="color:#002896; text-decoration: none;">Global Credit Project</a>; <a href='https://paulwdai.github.io/files/Slides_FinanceStructuralChangeGrowth.pdf' style="color:#002896; text-decoration: none;">Slides Link</a>

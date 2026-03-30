@@ -20,5 +20,5 @@ My research interests lie in macro-finance, with a particular focus on internati
   - <a href='https://paulwdai.github.io/files/DMV.pdf' style="color:#002896; text-decoration: none;">PDF Link</a>; <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5079393' style="color:#002896; text-decoration: none;">SSRN</a>; Data Website: <a href='https://www.globalcreditproject.com/' style="color:#002896; text-decoration: none;">Global Credit Project</a>; <a href='https://paulwdai.github.io/files/Slides_FinanceStructuralChangeGrowth.pdf' style="color:#002896; text-decoration: none;">Slides Link</a>
 
 ## Work in Progress
-### Foreign Exchange Hedging and Currency Invoicing (with <a href='https://economics.mit.edu/people/phd-students/ziwen-sun' style="color:#002896; text-decoration: none;">Ziwen Sun</a>)
+### Foreign Exchange Hedging and Currency Invoicing: Part I Theory (with <a href='https://economics.mit.edu/people/phd-students/ziwen-sun' style="color:#002896; text-decoration: none;">Ziwen Sun</a>)
   - <a href='https://paulwdai.github.io/files/DS.pdf' style="color:#002896; text-decoration: none;">PDF Link</a>

@@ -21,4 +21,4 @@ My research interests lie in macro-finance, with a particular focus on internati
 
 ## Work in Progress
 ### Foreign Exchange Hedging and Currency Invoicing: Part I Theory (with <a href='https://economics.mit.edu/people/phd-students/ziwen-sun' style="color:#002896; text-decoration: none;">Ziwen Sun</a>)
-  - <a href='https://paulwdai.github.io/files/invoicing_hedging_theory.pdf' style="color:#002896; text-decoration: none;">PDF Link</a>;<a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6492499' style="color:#002896; text-decoration: none;">SSRN</a>
+  - <a href='https://paulwdai.github.io/files/invoicing_hedging_theory.pdf' style="color:#002896; text-decoration: none;">PDF Link</a>; <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6492499' style="color:#002896; text-decoration: none;">SSRN</a>

@@ -24,5 +24,5 @@ Foreign Exchange Hedging and Currency Invoicing: Part I Theory (with <a href='ht
 
 
 ### Others
-Grad student talk at MIT List Visual Arts Center about how I connect arts with my research 
+Grad student talk at MIT List Visual Arts Center: connecting arts with my research 
  - <a href='https://listart.mit.edu/calendar/graduate-student-talk-paul-dai' style="color:#002896; text-decoration: none;">Link</a>

@@ -27,4 +27,4 @@ Foreign Exchange Hedging and Currency Invoicing: Part I Theory (with <a href='ht
 Grad student talk at MIT List Visual Arts Center: connecting arts with my research 
  - <a href='https://listart.mit.edu/calendar/graduate-student-talk-paul-dai' style="color:#002896; text-decoration: none;">Link</a>
 
-Interested in decision theory and behavior economics? Please check out <a href='https://www.yuzhao-yang.com/home-page' style="color:#002896; text-decoration: none;">Yuzhao</a>'s research!
+Interested in decision theory and behavioral economics? Please check out <a href='https://www.yuzhao-yang.com/home-page' style="color:#002896; text-decoration: none;">Yuzhao</a>'s research!
